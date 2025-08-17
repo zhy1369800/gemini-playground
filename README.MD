@@ -32,7 +32,7 @@ B站，YouTube，抖音，公众号 全网同名。转载请注明作者。
 
 ## Cloudflare Worker 部署
 
-[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/tech-shrimp/gemini-playground)
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/zhy1369800/gemini-playground)
 
 0. 准备一个Gemini API Key [https://aistudio.google.com](https://aistudio.google.com)（免费）
 1. 点击部署按钮
